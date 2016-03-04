@@ -1,6 +1,6 @@
 /* TCP¶Ë¿ÚÉ¨Ãè¹¤¾ß  For Kali */
 /* 2015.5.2 */
-/* Mail: Flyshit@cqu.edu.cn */
+/* Mail: flyteas@gmail.com */
 
 #include <stdio.h>
 #include <stdlib.h>
