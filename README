@@ -3,7 +3,7 @@ Tcp Port Scanner For Linux(Kali) v0.0.1
 Useage:
   ProgramFilePath/ProgramFileName TargetIP StartPort EndPort
 Example:
-  ./PortScaner 8.8.8.8 1521-1521
+  ./PortScaner 8.8.8.8 1521 1522
 
 Mail:
   flyteas@gmail.com
